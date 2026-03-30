@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from engine import solve
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = "8725066411:AAGEfslRIVZR03uMXxLCYF0vE9Iu3ztzing"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
